@@ -1,2 +1,3 @@
 
-Copyright (C) 2019 Richard
+Copyright (C) 2019 Richard Strange
+
