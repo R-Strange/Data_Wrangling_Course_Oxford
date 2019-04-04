@@ -33,20 +33,23 @@ For anaconda, you can use the following commands:
 
 ##### Key files:
 
-* [El Nino Problem Sheet]()
-* [Server Credentials data file]()
+* [El Nino Problem Sheet](https://github.com/R-Strange/Data_Wrangling_Course_Oxford/blob/master/Day%201/elnino_PROBLEM.ipynb)
+* [Server Credentials data file](https://github.com/R-Strange/Data_Wrangling_Course_Oxford/blob/master/Day%201/server_credentials.json)
 
 ##### Additional files:
 
-* [El Nino Solution Notebook]()
+* [El Nino Solution Notebook](https://github.com/R-Strange/Data_Wrangling_Course_Oxford/blob/master/Day%201/elnino_SOLVED.ipynb)
 
 ### Day 2
 
-##### Provided files:
+##### Key files:
 
 * [Twitter API Problem Sheet]()
 
-  
+##### Additional files:
 
+* [Twitter API Solution Notebook]()
 
+### Resources
 
+* [Teaching Slides]()
