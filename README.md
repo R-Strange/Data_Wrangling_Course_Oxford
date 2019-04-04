@@ -9,14 +9,15 @@ Problem sheets, solved examples and resources for the Wrangling and Pipelines fo
 For the exercises, you will need the following python libraries:
 
 * SciPy stack
-
 * SQLalchemy
 * psycopg2
 * tweepy
 
-you can install them through the conda package manager if you are using anaconda, or pip if you are using an different python distribution. If you are using the standard Anaconda installation, SciPy will likely come installed by default.
+you can install the required libraries through the conda package manager if you are using anaconda, or pip if you are using an different python distribution. *using conda is the recommended approach.*
 
-For anaconda, you can use the following commands:
+If you are using the standard Anaconda installation, SciPy will likely come installed by default. Ideally, all problem sheet work will be carried out using iPython/Jupyter notebooks, and all problem sheets and solutions are presented as `.ipynb` files. If you do use a different Python distribution you will need to ensure that you have iPython or Jupyter installed and working.
+
+For anaconda, you can use the following commands to install the required libraries:
 
 ```sh
  conda install -c anaconda scipy
@@ -25,9 +26,13 @@ For anaconda, you can use the following commands:
  conda install -c conda-forge tweepy
 ```
 
-
-
-
+If you are using pip, you can use the following commands to install the required libraries:
+```sh
+pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
+pip install SQLalchemy
+pip install psycopg2
+pip install tweepy
+```
 
 ### Day 1
 
