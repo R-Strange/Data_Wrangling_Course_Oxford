@@ -49,12 +49,12 @@ pip install tweepy
 
 ##### Key files:
 
-* [Twitter API Problem Sheet]()
+* [Twitter API Problem Sheet]() -currently a placeholder - 
 
 ##### Additional files:
 
-* [Twitter API Solution Notebook]()
+* [Twitter API Solution Notebook](https://github.com/R-Strange/Data_Wrangling_Course_Oxford/blob/master/Day%202/twitter_api_SOLVED.ipynb)
 
 ### Resources
 
-* [Teaching Slides]()
+* [Teaching Slides]() - currently a placeholder - 
