@@ -58,3 +58,5 @@ pip install tweepy
 ### Resources
 
 * [Teaching Slides]() - currently a placeholder - 
+
+* [Feedback Form](https://forms.gle/ZbhLaLXqWXjhaybR9)
