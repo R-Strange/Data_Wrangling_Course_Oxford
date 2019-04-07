@@ -57,6 +57,8 @@ pip install tweepy
 
 ### Resources
 
-* [Teaching Slides](https://github.com/R-Strange/Data_Wrangling_Course_Oxford/blob/master/Introduction%20to%20pipelines%20and%20wrangling%20-%20deck.pdf)
+* [Teaching Slides - PDF](https://github.com/R-Strange/Data_Wrangling_Course_Oxford/blob/master/Deck/Introduction%20to%20pipelines%20and%20wrangling%20-%20deck.pdf)
+
+* [Teaching Slides - PowerPoint](https://github.com/R-Strange/Data_Wrangling_Course_Oxford/blob/master/Deck/Introduction%20to%20pipelines%20and%20wrangling%20-%20deck.pptx)
 
 * [Feedback Form](https://forms.gle/ZbhLaLXqWXjhaybR9)
