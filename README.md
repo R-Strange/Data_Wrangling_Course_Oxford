@@ -2,8 +2,6 @@
 
 Problem sheets, solved examples and resources for the Wrangling and Pipelines for Data Handling Course.
 
-
-
 ### Required Libraries
 
 For the exercises, you will need the following python libraries:
@@ -32,6 +30,16 @@ pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
 pip install SQLalchemy
 pip install psycopg2
 pip install tweepy
+```
+
+#### Addendum
+
+There were some issues with the tweepy library installation, so the problem sheet for day two will use `twython` instead.
+
+You can install this using the command
+
+```sh
+pip install twython
 ```
 
 ### Day 1
